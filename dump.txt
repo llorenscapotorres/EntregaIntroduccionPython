@@ -1,0 +1,23 @@
+commit 97a7a4e8db51a4437e1e0727ab4fd172cf4fabe0
+Author: Llorens Capo <llorenscapo2001@gmail.com>
+Date:   Fri Oct 18 19:15:27 2024 +0200
+
+    Añadir enlace a GitHub
+
+commit 2a0f996358a20117a82277285152a8b04883c003
+Author: Llorens Capo <llorenscapo2001@gmail.com>
+Date:   Fri Oct 18 19:07:48 2024 +0200
+
+    Último ejercicio
+
+commit e69b2f47e0dfd21af96c726728dde2be57023915
+Author: Llorens Capo <llorenscapo2001@gmail.com>
+Date:   Fri Oct 18 18:33:28 2024 +0200
+
+    Ejercicio 2
+
+commit a5ec975c3491d07b72545e0ba027b5e6d4d09dba
+Author: Llorens Capo <llorenscapo2001@gmail.com>
+Date:   Fri Oct 18 18:26:36 2024 +0200
+
+    Ejercicio 1
